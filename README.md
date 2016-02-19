@@ -1,2 +1,2 @@
 # Spectacle-for-blind
-Spectacle navigating blinerson
+This is spectacle that helps a blind person to walk in the road.  
