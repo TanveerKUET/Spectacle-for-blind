@@ -5,6 +5,7 @@ This is spectacle that helps a blind person to walk in the road. The spectacle c
 ## Platform
 ### Hardware Module
 * Arduino
+
 ### Language
 * C++
 
