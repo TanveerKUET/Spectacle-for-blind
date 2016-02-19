@@ -4,7 +4,7 @@ This is spectacle that helps a blind person to walk in the road. The spectacle c
 
 ## Platform
 ### Hardware Module
-* Arduino
+* Arduino Mega2560
 
 ### Language
 * C++
@@ -16,6 +16,10 @@ This is spectacle that helps a blind person to walk in the road. The spectacle c
 ### Alerting Vibrators
 * Simple vibrating motor (Used in Cell Phone)
 
+## Implementation
+At first two ultrasonic sensors are mounted in the left and right side of the spectacle and the last one is mounted in the finger ring. The three vibrators are mounted in that three places. And they are interfaced in a Arduino Mega2560 board.
 
+## System Requirement
+* 9V DC battery
 
 
