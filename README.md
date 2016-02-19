@@ -18,7 +18,7 @@ This is spectacle that helps a blind person to walk in the road. The spectacle c
 
 ## Implementation
 At first two ultrasonic sensors are mounted in the left and right side of the spectacle and the last one is mounted in the finger ring. The three vibrators are mounted in that three places. And they are interfaced in a Arduino Mega2560 board.
-
+![alt tag](https://github.com/TanveerKUET/Spectacle-for-blind/blob/master/BlindSpectacle%20Circuit%20Diagram.jpg) 
 ## System Requirement
 * 9V DC battery
 
